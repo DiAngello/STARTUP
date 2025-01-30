@@ -10,7 +10,7 @@ Neto Virtual
 
 <h4>🚨 Site criado para avaliação do projeto da disciplina de STARTUP 2024/2.</h4>
 
-![screenshot]()
+![screenshot](https://github.com/DiAngello/STARTUPS/blob/main/assets/netovirtual_gif.gif)
 
 ## 🔍 Problema
 
